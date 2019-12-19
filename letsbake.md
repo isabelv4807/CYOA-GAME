@@ -5,4 +5,4 @@ Which do you choose?
 
 [cheesecake](cheesecake.md)     
 
-![Lets Bake](https://images.app.goo.gl/8fY6XscSCqSi6HDH9.jpg)  
+![Lets Bake](letsbake.jpg)  
