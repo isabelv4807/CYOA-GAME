@@ -1,6 +1,6 @@
 OOOOOOh Cheesecake sounds delicious. What kind of cheesecake do you want to make ?
 
-[Srawberry Cheesecake](srawberrycake.md)
+[Strawberry Cheesecake](strawberrycake.md)
 
 [Chocolate Cheesecake](chocolatecake.md)
 
