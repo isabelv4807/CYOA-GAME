@@ -5,4 +5,4 @@ Good choice... Are you sure you don’t want to look for a recipe?
 [Actually yes i do](iwantrecipe.md)
 
 
-![wing it](wing it.png)
+![wing it](wingit.png)
