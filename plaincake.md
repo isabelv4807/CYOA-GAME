@@ -5,3 +5,5 @@ to watch over the oven or just go to sleep?
 [Let her watch it](momwatch.md)       
 
 [sleep](sleep.md)       
+
+![plain](plain.jpg)

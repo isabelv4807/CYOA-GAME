@@ -6,3 +6,5 @@ to watch over the oven or go with you to shop?
 [Let her stay](stay.md)     
 
 [Let her go with you](together.md)      
+
+![chocolate](chocolate.jpg)
