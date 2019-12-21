@@ -4,4 +4,6 @@ asks if she can help you.What do you say?
 
 [Yes](yes.md)
 
-[NO](no.md)
+[NO](no.md)                  
+
+![boxed](boxed.jpeg)                      
