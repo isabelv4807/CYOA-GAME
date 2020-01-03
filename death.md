@@ -1,6 +1,6 @@
 YOU DIE!                           
 
-![YOU DIE!](download.png)                
+![YOU DIED!](download.png)                
 
 
 
