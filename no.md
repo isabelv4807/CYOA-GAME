@@ -4,3 +4,4 @@ with no brownies. All because you were selfish. Have fun being alone.
 
 [Click here to start over](home.md)
 
+![momhates](momhate.jpg) 
