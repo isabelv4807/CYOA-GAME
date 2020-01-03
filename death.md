@@ -1,4 +1,4 @@
-YOU DIE!                           
+YOU DIED!                           
 
 ![YOU DIED!](download.png)                
 
